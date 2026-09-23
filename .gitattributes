@@ -1,0 +1,5 @@
+# 统一行尾：脚本类用 CRLF，保证 Windows 下双击/拖拽可直接运行
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
